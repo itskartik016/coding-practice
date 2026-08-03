@@ -1,8 +1,8 @@
 # Java Learning Journey
 
 ## Core Java
-- [ ] Basics
-- [ ] Operators
+- [x] Basics
+- [x] Operators
 - [ ] Control Statements
 - [ ] Methods
 - [ ] Arrays
