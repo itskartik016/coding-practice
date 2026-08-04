@@ -37,5 +37,7 @@ public class Program_01 {
             //     System.out.println("Not Eligible");
             // }
 
+         
+         sc.close();
     }    
 }
