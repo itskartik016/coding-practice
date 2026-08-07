@@ -1,10 +1,10 @@
-//Print a number only if it is greater than 100.
-
 import java.util.Scanner;
 
 public class If_02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
+//Print a number only if it is greater than 100.
 
         // System.out.println("Enter Number :");
         // int num = sc.nextInt();
@@ -46,7 +46,27 @@ public class If_02 {
                 // if( ch >= 'A' && ch <= 'Z'){
                 //     System.out.println("Character is Uppercae");
                 // }
-            
+
+
+ /* 
+     Write a Java program to input two integers and print the larger number.
+ */        
+
+                // System.out.println("Enter first number:");
+                // int num1 = sc.nextInt();
+
+                // System.out.println("Enter second number:");
+                // int num2 = sc.nextInt();
+
+                // if (num1 > num2) {
+                //     System.out.println(num1 + " is the larger number.");
+                // } else {
+                //     if (num2 > num1) {
+                //         System.out.println(num2 + " is the larger number.");
+                //     } else {
+                //         System.out.println("Both numbers are equal.");
+                //     }
+                // }
 
     }
 }
