@@ -15,10 +15,9 @@ public class If_02 {
         //     System.out.println(num + " < " + "100");
         // }
 
-
-        /*
-            Print "Adult" only if age is at least 18.
-        */
+/*
+    Print "Adult" only if age is at least 18.
+*/
             // System.out.println("Enter Age:");
             // int age = sc.nextInt();
 
@@ -27,9 +26,9 @@ public class If_02 {
             // }
 
         
-        /* 
-            Print "Login Successful" only if isLoggedIn is true.
-        */
+/* 
+    Print "Login Successful" only if isLoggedIn is true.
+*/
 
             // boolean IsLoggedIn = true;
 
@@ -37,10 +36,16 @@ public class If_02 {
             //         System.out.println("Login Successful");
             // }
 
-        /*  
-            Print "Character is Uppercase" if the character is between 'A' and 'Z'.
-        */
+/*  
+    Print "Character is Uppercase" if the character is between 'A' and 'Z'.
+*/
 
+                // System.out.println("Enter Character:");
+                // char ch = sc.next().charAt(0);
+
+                // if( ch >= 'A' && ch <= 'Z'){
+                //     System.out.println("Character is Uppercae");
+                // }
             
 
     }
