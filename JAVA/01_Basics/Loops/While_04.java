@@ -1,4 +1,4 @@
-// Enter sum of first n natural numbers.
+/* Enter sum of first n natural numbers. */
 
 import java.util.*;
 
