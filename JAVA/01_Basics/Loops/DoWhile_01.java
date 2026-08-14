@@ -13,4 +13,4 @@ public class DoWhile_01 {
     }
 }
 
-// output : KJ5
+// output : KJ5   ( According to while loop, the statement should execute once even if condition is false)
